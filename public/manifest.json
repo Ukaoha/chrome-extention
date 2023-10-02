@@ -14,8 +14,6 @@
   "permissions": [
     "desktopCapture",
       "activeTab",
-      "audioCapture",
-      "videoCapture",
       "storage"
   ]
 }
